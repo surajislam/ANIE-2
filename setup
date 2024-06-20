@@ -74,8 +74,8 @@ node(){
 
 installation(){
 	pprint "\n\nUpgrading pip and installing dependency packages..."
-	pip3 install  pip &>>pypilog.txt &&
-	pip3 install -r requirements.txt &>>pypilog.txt &&
+	pip3 install -U pip &>>pypilog.txt &&
+	pip3 install -U -r requirements.txt &>>pypilog.txt &&
 	pprint "DONE.\n" "cgreen" && return
 	pprint "FAIL.\n" "cred"
 	exit 1
