@@ -68,10 +68,10 @@
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 
 - Clone the ANNIE-X-MUSIC repository :
-`git clone https://github.com/doraemon890/ANNIE-X-MUSIC`
+`git clone https://github.com/surajislam/ANIE-2`
 
-- Change directory to ANNIE-X-MUSIC :
-`cd ANNIEMUSIC`
+- Change directory to ANIE-2 :
+`cd SIMPLE`
 
 - Install required Python packages :
 `pip3 install -U -r requirements.txt`
