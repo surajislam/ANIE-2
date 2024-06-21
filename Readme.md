@@ -8,7 +8,7 @@
 <a href="https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%surajislam%ANIE-2.git&showOptionalTeamCreation=false"><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg" width="150" height="35"></a>
 <a href="https://glitch.com/edit/#!/import/github/surajislam/ANIE-2"><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg" width="150" height="35"></a>
 <a href="https://s
-cyclic.sh.com/deploy/?template=https://github.com/surajislam/ANIE-2"><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/firebase/heroku.svg" width="150" height="35"></a>
+cyclic.com/deploy/?template=https://github.com/surajislam/ANIE-2"><img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/firebase/heroku.svg" width="150" height="35"></a>
 <p>
 # Frontend by <a href="https://github.com/techarb2">techarb2</a>
 		      
