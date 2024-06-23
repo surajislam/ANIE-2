@@ -13,9 +13,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Specify where to get the following credentials
 OWNER_USERNAME = getenv("OWNER_USERNAME", "II_SB_SIMPLE_II")
-BOT_USERNAME = getenv("BOT_USERNAME", "GALAKOO_USER_BOT")
-BOT_NAME = getenv("BOT_NAME", "𒁔𒂒⃯⃗⃟̴ 𝐌͢ᴜ͠𝖘ɨ͢ʙ⃗Λ⃨༎ࠫ𝆺꯭𝅥 ꭙ‌³⍣⃟🍷")
-ASSUSERNAME = getenv("ASSUSERNAME", "Hello_babyyii")
+BOT_USERNAME = getenv("BOT_USERNAME", "SB_MANAGE_CBOT")
+BOT_NAME = getenv("BOT_NAME", "X_simple_X")
+ASSUSERNAME = getenv("ASSUSERNAME", "ll_SB_ANGLE_ll")
 EVALOP = list(map(int, getenv("EVALOP", "6797202080").split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", --1002126936204))
